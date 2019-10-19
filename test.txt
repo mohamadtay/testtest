@@ -1,1 +1,1 @@
-stop_check_cards
+start_check_cards
